@@ -17,4 +17,4 @@
 2. **Save Progress**: Changes to playlists are saved to text files for easy access and persistence.
 3. **Delete Songs**: Users can remove songs by selection, with playlists automatically updating.
 
-This project is ideal for demonstrating C++ proficiency, memory management, and data handling—perfect for technical positions focused on foundational development skills.
+
